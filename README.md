@@ -17,5 +17,16 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
     Druk op install all.
   </li>
 </ol>
-<images/step1.png>
+<img width="326" alt="step1" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/5cd79055-d66b-435f-9132-06e8acc0da1a">
 
+<h2> Stap 2: Adafruit IO Setup </h2>
+<ol>
+  <li>
+      Om te kunnen beginnen en gebruik te mogen maken van deze library. Moeten we een account aanmaken. <br>
+      Hiervoor gaan we naar 'https://io.adafruit.com/'. Druk hierbij op 'get started for free' en maak een account aan.
+  </li>
+  <li>
+      In Adafruit IO aangekomen druk je op de gele sleutel in het menu.
+      img
+  </li>
+</ol>
