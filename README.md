@@ -17,4 +17,5 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
     Druk op install all.
   </li>
 </ol>
+<images/step1.png>
 
