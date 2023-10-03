@@ -59,15 +59,15 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   </li>
   
   <li>
-      Kies color picker.  
-      <img width="326" alt="step7" src="."> <br>
+      Kies color picker. <br> 
+      <img width="326" alt="step7" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/f11cfa04-fbf6-4568-a5db-62dca2fad3c9"><br>
   </li>
 
    <li>
       Creëer de feed naam: "color".
-     <img width="326" alt="step8" src="."> <br>
+     <img width="326" alt="step8" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/c67e8e88-c5a2-4fb8-89f0-917aaf089b2f"> <br>
      Als je, je muis naast het tekst veld houd. Verschijnt hier een Creëer knop.
-     <img width="326" alt="step9" src="."> <br>
+     <img width="326" alt="step9" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/9be94224-379c-4d09-9d72-95d812dc114c"> <br>
   </li>
 
    <li>
@@ -76,7 +76,7 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
 
    <li>
       Stel een kleur in met de color picker. Druk hierbij op de feed: color, die je zojuist hebt gemaakt.<br> Ga hierbij naar de volgende stap en verander de HEX code.
-      <img width="326" alt="step10" src="."> <br>
+      <img width="326" alt="step10" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/1f6e797f-ff56-47e1-aa98-ec022cbf0ae4"> <br>
      
   </li>
 </ol>
