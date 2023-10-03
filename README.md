@@ -24,12 +24,12 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   <li>
       Om te kunnen beginnen en gebruik te mogen maken van deze library. Moeten we een account aanmaken. <br>
       Hiervoor gaan we naar 'https://io.adafruit.com/'. Druk hierbij op 'get started for free' en maak een account aan.
-      ![step2](https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/4895e213-334e-4914-8975-63704313c61b)
+      <img width="326" alt="step1" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/4895e213-334e-4914-8975-63704313c61b)"> <br>
       Je zult dit scherm zien, druk hierbij bovenin oo IO, om naar stap 2 te kunnen.
   </li>
   <li>
-      In Adafruit IO aangekomen druk je op de gele sleutel in het menu.
-      ![step3](https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/9b5286ca-b0f5-4419-85d8-04e16b931f20)
+      In Adafruit IO aangekomen druk je op de gele sleutel in het menu.<br>
+      <img width="326" alt="step1" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/9b5286ca-b0f5-4419-85d8-04e16b931f20)"><br>
   </li>
   <li>
       In het scherm dat je nu ziet, kopiër jij je key en je username. Deze heb je zo nodig!
