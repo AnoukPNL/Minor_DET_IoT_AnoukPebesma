@@ -18,6 +18,7 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   </li>
 </ol>
 <img width="326" alt="step1" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/5cd79055-d66b-435f-9132-06e8acc0da1a">
+<br>
 
 <h2> Stap 2: Adafruit IO Setup </h2>
 <ol>
@@ -33,5 +34,39 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   </li>
   <li>
       In het scherm dat je nu ziet, kopiër jij je key en je username. Deze heb je zo nodig!
+  </li>
+</ol>
+<br>
+
+<h2> Stap 3: Adafruit IO Feed en Colorpicker aanmaken </h2>
+<ol>
+  <li>
+      Ga naar Dashboards, in het menu van de io.adafruit site te vinden. Maak hierbij een nieuw dashboard aan, klik op 'New Dashboard'.
+      img
+  </li>
+  
+  <li>
+      Ga naar het dashboard.
+  </li>
+  
+  <li>  
+      Creëer een nieuw block, druk op het instellingen icoontje, zoals te zien op de afbeelding hieronder.
+    img
+  </li>
+  
+  <li>
+      Kies color picker.  
+  </li>
+
+   <li>
+      Creëer de feed naam: "color".
+  </li>
+
+   <li>
+      Creëer block.
+  </li>
+
+   <li>
+      Stel een kleur in met de color picker.
   </li>
 </ol>
