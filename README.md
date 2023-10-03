@@ -86,7 +86,8 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
 <ol>
   <li>
       Ga naar Arduino IDE. <br>
-      Ga naar file > examples > Adafruit IO Arduino > Adafruitio_14_neopixel
+      Ga naar file > examples > Adafruit IO Arduino > Adafruitio_14_neopixel <br>
+      <img width="326" alt="step11" src="."> <br>
   </li>
 
   <li>
