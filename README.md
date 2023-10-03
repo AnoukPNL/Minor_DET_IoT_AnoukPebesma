@@ -87,22 +87,25 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   <li>
       Ga naar Arduino IDE. <br>
       Ga naar file > examples > Adafruit IO Arduino > Adafruitio_14_neopixel <br>
-      <img width="326" alt="step11" src="."> <br>
+      <img width="1045" alt="step 11" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/c367cb5b-0889-4bc6-9e43-a5d27b60a67b"><br>
   </li>
 
   <li>
-    In tab ‘config.h’: plak je Adafruit IO username en Key in.
+    In tab ‘config.h’: plak je Adafruit IO username en Key in. <br>
+    <img width="780" alt="step12" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/364adf32-dc09-4c29-b651-bf3984263bec"><br>
   </li>
 
   <li>
     In tab ‘config.h’: voer het wifi netwerk en wachtwoord in. <br>
     A. (De NodeMCU werkt niet op 5Ghz WiFi) <br>
-    B. Gebruik liefst de hotspot van je telefoon, dit gebruikt < 0.1 Mb data per uur, dus niet bang zijn.
+    B. Gebruik liefst de hotspot van je telefoon, dit gebruikt < 0.1 Mb data per uur, dus niet bang zijn.<br>
+      <img width="779" alt="step13" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/59c50387-0a64-4565-89e0-ee725e4fc29f"><br>
   </li>
 
   <li>
     Ga naar de Tab adafruit_14_Neopixel.ino <br>
-    A. Pas: #define PIXEL_PIN 5 aan naar #define PIXEL_PIN D5
+    A. Pas: #define PIXEL_PIN 5 aan naar #define PIXEL_PIN D5<br>
+    <img width="447" alt="step14" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/8aa22a0c-8c0a-493f-8e45-c081483227a8"><br>
   </li>
 </ol>
 
