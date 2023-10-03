@@ -52,18 +52,22 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   
   <li>  
       Creëer een nieuw block, druk op het instellingen icoontje, zoals te zien op de afbeelding hieronder.
-      <img width="326" alt="step1" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/1ea1b522-7745-45c9-a191-50c40ad9594e)"><br>
-      Hierbij krijg je onderstaand beeld tezien. Druk hierbij op 'Create New Block'. 
-      <img width="326" alt="step1" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/a0fc1e22-036d-402a-9622-df4b6fb40eeb)"> <br>
+      <img width="326" alt="step5" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/1ea1b522-7745-45c9-a191-50c40ad9594e)"><br>
+      Hierbij krijg je onderstaand beeld tezien. Druk hierbij op 'Create New Block'. <br>
+      <img width="326" alt="step6" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/a0fc1e22-036d-402a-9622-df4b6fb40eeb)"> <br>
 
   </li>
   
   <li>
       Kies color picker.  
+      <img width="326" alt="step7" src="."> <br>
   </li>
 
    <li>
       Creëer de feed naam: "color".
+     <img width="326" alt="step8" src="."> <br>
+     Als je, je muis naast het tekst veld houd. Verschijnt hier een Creëer knop.
+     <img width="326" alt="step9" src="."> <br>
   </li>
 
    <li>
@@ -71,6 +75,9 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   </li>
 
    <li>
-      Stel een kleur in met de color picker.
+      Stel een kleur in met de color picker. Druk hierbij op de feed: color, die je zojuist hebt gemaakt.<br> Ga hierbij naar de volgende stap en verander de HEX code.
+      <img width="326" alt="step10" src="."> <br>
+     
   </li>
 </ol>
+<img width="326" alt="step7" src="."> <br>
