@@ -117,7 +117,8 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
 
   <li>
     Activeer de 'serial monitor'. Dit doe je door op de knop te drukken die hier onderstaand te zien is. <br>
-    <img width="326" alt="step7" src="."> <br>
+    <img width="48" alt="step15" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/85f1ec5c-c338-4059-9c03-08af1ecc88c1">
+<br>
   </li>
 
   <li>
@@ -140,4 +141,3 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
     Is je ledstrip ook goed aangesloten, dan kun je met de colorpicker de LED kleur aanpassen. Je hebt dus zelf een Philips (Signify) HUE gemaakt. Voor een paar euro. Adafruit draait ook op je mobiel!
   </li>
 </ol>
-<img width="326" alt="step7" src="."> <br>
