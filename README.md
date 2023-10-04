@@ -17,7 +17,7 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
     Druk op install all.
   </li>
 </ol>
-<img width="326" alt="step1" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/5cd79055-d66b-435f-9132-06e8acc0da1a">
+<img width="242" alt="step1 1" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/55d80757-109b-417b-911b-fac5b87ca2c5">
 <br>
 
 <h2> Stap 2: Adafruit IO Setup </h2>
