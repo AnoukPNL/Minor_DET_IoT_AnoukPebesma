@@ -64,7 +64,8 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   </li>
 
    <li>
-      Creëer de feed naam: "color".<br>
+      Creëer de feed naam: "color".<br> 
+      Vergeet de feednaam niet! Deze moet je later toevoegen in je Arduino code. <br> Dit heeft even gekost voordat ik hier achterkwam, maar het is een belangrijk deel dat je beter niet kan vergeten. <br>
      <img width="326" alt="step8" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/c67e8e88-c5a2-4fb8-89f0-917aaf089b2f"> <br>
      Als je, je muis naast het tekst veld houd. Verschijnt hier een Creëer knop. <br>
      <img width="326" alt="step9" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/9be94224-379c-4d09-9d72-95d812dc114c"> <br>
@@ -99,12 +100,14 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
     In tab ‘config.h’: voer het wifi netwerk en wachtwoord in. <br>
     A. (De NodeMCU werkt niet op 5Ghz WiFi) <br>
     B. Gebruik liefst de hotspot van je telefoon, dit gebruikt < 0.1 Mb data per uur, dus niet bang zijn.<br>
+    Je moet even uittesten wat beter werkt. Bij de hotspot op mijn telefoon werkte het niet, maar op de wifi ging het wel goed! <br>
       <img width="779" alt="step13" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/59c50387-0a64-4565-89e0-ee725e4fc29f"><br>
   </li>
 
   <li>
     Ga naar de Tab adafruit_14_Neopixel.ino <br>
     A. Pas: #define PIXEL_PIN 5 aan naar #define PIXEL_PIN D5<br>
+    B. Pas: #define PIXEL_COUNT 24 aan naar de hoeveelheid aan leds die je hebt. (Dit is iets wat ik eerst ook fout deed, maar het aanpassen laat de LEDstrip wel beter werken).<br> Verander alleen het getal 24 naar de hoeveelheid.
     <img width="447" alt="step14" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/8aa22a0c-8c0a-493f-8e45-c081483227a8"><br>
   </li>
 </ol>
