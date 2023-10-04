@@ -146,7 +146,7 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   </li>
 </ol> <br>
 
-<h1> Uiteindelijk resultaat!</h1>
+<h2> Uiteindelijk resultaat!</h2>
 Alle stappen doorlopen? Topper ben je! Geniet van je goedkope eigengemaakte Hue!<br>
 https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/19f298ae-2da5-4c83-ba31-17fbda805cf6
 
