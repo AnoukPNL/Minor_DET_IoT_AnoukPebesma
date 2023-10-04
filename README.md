@@ -7,6 +7,7 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
 <li>1x Arduino Board (ESP8266)</li>
 <li>1x Jump wire</li>
 <li>1x LEDstrip </li>
+<li>Een 5Ghz WiFi (of hotspot) verbinding</li>
 <li>Maar natuurlijk ook een laptop/computer en een USB-c kabel om de Arduino te verbinden. </li>
 
 <h2> Stap 1: Installeer de Arduino IO library </h2>
@@ -146,7 +147,12 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
 </ol> <br>
 
 <h1> Uiteindelijk resultaat!</h1>
-Alle stappen doorlopen? Topper ben je! Geniet van je goedkope eigengemaakte Hue!
+Alle stappen doorlopen? Topper ben je! Geniet van je goedkope eigengemaakte Hue!<br>
+https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/19f298ae-2da5-4c83-ba31-17fbda805cf6
+
+
+
+
 
 
 
