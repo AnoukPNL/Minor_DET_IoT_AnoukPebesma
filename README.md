@@ -107,7 +107,7 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   <li>
     Ga naar de Tab adafruit_14_Neopixel.ino <br>
     A. Pas: #define PIXEL_PIN 5 aan naar #define PIXEL_PIN D5<br>
-    B. Pas: #define PIXEL_COUNT 24 aan naar de hoeveelheid aan leds die je hebt. (Dit is iets wat ik eerst ook fout deed, maar het aanpassen laat de LEDstrip wel beter werken).<br> Verander alleen het getal 24 naar de hoeveelheid.
+    B. Pas: #define PIXEL_COUNT 24 aan naar de hoeveelheid aan leds die je hebt. (Dit is iets wat ik eerst ook fout deed, maar het aanpassen laat de LEDstrip wel beter werken).<br> Verander alleen het getal 24 naar de hoeveelheid. <br>
     <img width="447" alt="step14" src="https://github.com/AnoukPNL/Minor_DET_IoT_AnoukPebesma/assets/112867115/8aa22a0c-8c0a-493f-8e45-c081483227a8"><br>
   </li>
 </ol>
@@ -143,4 +143,10 @@ In dit artikel/verslag neem ik jou meer naar hoe jij dit kan maken. Ik zal hierb
   <li>
     Is je ledstrip ook goed aangesloten, dan kun je met de colorpicker de LED kleur aanpassen. Je hebt dus zelf een Philips (Signify) HUE gemaakt. Voor een paar euro. Adafruit draait ook op je mobiel!
   </li>
-</ol>
+</ol> <br>
+
+<h1> Uiteindelijk resultaat!</h1>
+Alle stappen doorlopen? Topper ben je! Geniet van je goedkope eigengemaakte Hue!
+
+
+
